@@ -32,3 +32,4 @@ Every time you restart your codespace, you will need to do this. If you close th
 3. Internet speed of 1.3gb download and 2.2gb upload<br>
 4. No restrictions<br>
 5. Can be created in different countries<br>
+6. 60 hours a month
