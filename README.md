@@ -24,6 +24,7 @@ Every time you restart your codespace, you will need to do this. If you close th
 3. A lot of applications don't support plain debian linux that this has<br>
 4. Bad display quality<br>
 5. Doesn't support steam<br>
+6. 60 hours a month<br>
 
 # Benefits
 1. Can be accessed from any device<br>
