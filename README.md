@@ -1,6 +1,6 @@
 # Setup
 1. Create a new github codespace from this repository<br>
-2. Ensure you have selected the 8 core machine<br>
+2. Ensure you have selected the 4 core machine<br>
 3. Execute ```chmod +x setup.sh``` and ```chmod +x start.sh``` in the codespace terminal<br>
 4. Execute ```./setup.sh``` in the codespace terminal to set up the VM (This may take up to 5 minutes)<br>
 5. Assuming the console doesnt throw any errors, you've sucessfully set up your Linux VM<br>
