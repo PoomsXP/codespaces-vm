@@ -10,7 +10,7 @@ Every time you restart your codespace, you will need to do this. If you close th
 1. Ensure you have completed the setup. If something doesn't work in this process, thats probably the reason<br>
 2. Execute ```./start.sh``` in your codespace terminal. If this command alone throws a error, redo step 3 of the setup<br>
 3. Assuming there are no errors, navigate to your ports tab<br>
-4. Click on the globe icon next to the port ```5900```<br>
+4. Click on the globe icon next to the port ```6080```<br>
 5. Click on the link to ```vnc.html```<br>
 6. Click Connect<br>
 7. You should load up to a black screen, right click on it<br>
