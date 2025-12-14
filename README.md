@@ -4,7 +4,7 @@
 3. Execute ```chmod +x setup.sh``` in the codespace terminal<br>
 4. Execute ```./setup.sh``` in the codespace terminal to set up the VM (This may take up to 5 minutes)<br>
 5. You may need to enter `y` to accept package installations or select a keyboard layout and language. When finished, your all set to start your VM<br>
-6. Change ```YOUR_PASSWORD_HERE``` on line 10 of start.sh to your desired password
+6. Change ```YOUR_PASSWORD_HERE``` in line 10 of start.sh to your desired password
 
 # Starting the VM
 Every time you restart your codespace, you will need to do this. If you close the vnc session, start from step 4.<br>
