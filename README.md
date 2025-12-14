@@ -1,14 +1,14 @@
 # Setup
 1. Create a new github codespace from this repository<br>
 2. Ensure you have selected the 4 core machine<br>
-3. Execute ```chmod +x setup.sh``` and ```chmod +x start.sh``` in the codespace terminal<br>
+3. Execute ```chmod +x setup.sh``` in the codespace terminal<br>
 4. Execute ```./setup.sh``` in the codespace terminal to set up the VM (This may take up to 5 minutes)<br>
 5. You may need to enter `y` to accept package installations or select a keyboard layout and language. When finished, your all set to start your VM<br>
 
 # Starting the VM
 Every time you restart your codespace, you will need to do this. If you close the vnc session, start from step 4.<br>
 1. Ensure you have completed the setup. If something doesn't work in this process, thats probably the reason<br>
-2. Execute ```./start.sh``` in your codespace terminal. If this command alone throws a error, redo step 3 of the setup<br>
+2. Execute ```./start.sh``` in your codespace terminal to start XFCE. You can similarily do <br>
 3. Assuming there are no errors, navigate to your ports tab<br>
 4. Click on the globe icon next to the port ```6080```<br>
 5. Click on the link to ```vnc.html```<br>
