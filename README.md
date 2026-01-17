@@ -1,6 +1,5 @@
 # Video
-[![Youtube Video]()]<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a48aed0a-02b6-4269-87bf-9fb799971127" />(https://www.youtube.com/watch?v=HB5HW2hDORg)
-
+<a href="https://www.youtube.com/watch?v=HB5HW2hDORg"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a48aed0a-02b6-4269-87bf-9fb799971127" /></a>
 # Setup
 1. Create a new github codespace from this repository<br>
 2. Ensure you have selected the 4 core machine<br>
