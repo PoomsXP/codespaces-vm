@@ -17,4 +17,9 @@ sleep 1
 
 # Start noVNC proxy
 cd /workspaces/codespaces-vm/noVNC || exit
-./utils/novnc_proxy --vnc 127.0.0.1:5900 --listen 0.0.0.0:6080 &
+./utils/novnc_proxy --vnc 127.0.0.1:5900 --listen 0.0.0.0:6080
+echo
+echo
+echo
+echo "\n\n✅ Start successful. Navigate to Ports, click the Globe icon next to 6080 and go to vnc.html to connect. You can start this again later using ./start.sh"
+echo
