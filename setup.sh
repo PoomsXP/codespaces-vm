@@ -6,5 +6,6 @@ git clone https://github.com/novnc/noVNC
 clear
 echo
 echo
-echo ✅ Setup Complete! Start by running start.sh
+echo ✅ Setup Complete! Autostarting...
 echo
+./start.sh
