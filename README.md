@@ -1,7 +1,5 @@
-<center>
 # Codespaces VM
 Get a XFCE Desktop on Github Codespaces using TigerVNC and noVNC
-</center>
 ## Video
 <a href="https://www.youtube.com/watch?v=HB5HW2hDORg"><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a48aed0a-02b6-4269-87bf-9fb799971127" /></a>
 ## Setup
