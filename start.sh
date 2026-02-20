@@ -22,8 +22,5 @@ cd /workspaces/codespaces-vm/noVNC || exit
 
 # Success Message
 clear
-echo
-echo
-echo
-echo "\n\n✅ Start successful. Navigate to Ports, click the Globe icon next to 6080 and go to vnc.html to connect. You can start this again later using ./start.sh"
-echo
+echo "\n\n✅ Start successful. Navigate to Ports, click the Globe icon next to 6080 and go to vnc.html to connect. You can start this again later using ./start.sh\n\n"
+
