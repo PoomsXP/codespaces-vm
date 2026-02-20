@@ -18,6 +18,7 @@ sleep 1
 # Start noVNC proxy
 cd /workspaces/codespaces-vm/noVNC || exit
 ./utils/novnc_proxy --vnc 127.0.0.1:5900 --listen 0.0.0.0:6080
+clear
 echo
 echo
 echo
