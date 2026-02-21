@@ -19,15 +19,13 @@ Every time you restart your codespace, you will need to do this. If you close th
 4. Click on the globe icon next to the port ```6080```<br>
 5. Click on the link to ```vnc.html```<br>
 6. Click Connect<br>
-7. You should load up to a black screen, right click on it<br>
-8. This is your toolbar, You can open applications and access the terminal from here<br>
-9. You should have access to the root account of your codespace, so be careful.<br>
+7. You can launch applications from the applications menu in the toolbar
 
 
 # Drawbacks and limitations
 1. There is no sound driver built in<br>
 2. Only 32gb of storage<br>
-3. A lot of applications don't support plain debian linux that this has<br>
+3. A lot of applications don't support plain ubuntu linux that this has<br>
 4. Bad display quality<br>
 5. Doesn't support steam<br>
 6. 60 hours a month<br>
